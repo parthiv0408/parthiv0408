@@ -27,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 ## 🧠 About Me
 
 - 🔭 I’m currently working on **Flutter mobile apps and system-level programming projects**
-- 🌱 I’m currently learning **Advanced Dart, PostgreSQL, and optimizing C++ algorithms**
 - 👯 I’m looking to collaborate on **open-source Flutter and backend tools**
 - 💬 Ask me about **Flutter, Dart, PostgreSQL, C, and C++**
 - 📫 How to reach me: **parthivchovatiya0408@gmail.com**
