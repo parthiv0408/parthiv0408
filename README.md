@@ -68,16 +68,37 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/parthivchovatiya" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:parthivchovatiya0408@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-</p>
-
----
-
-<!-- Optional: Cool typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+%26+Dart+Developer;C%2FC%2B%2B+Problem+Solver;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- GitHub Profile -->
+  <a href="https://github.com/parthiv0408" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:parthivchovatiya0408@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <!-- Portfolio or Personal Website (Optional) -->
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+
+  <!-- Telegram (Optional) -->
+  <a href="https://t.me/yourTelegramUsername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+
+  <!-- Instagram (Optional) -->
+  <a href="https://instagram.com/yourInstagramUsername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
+
