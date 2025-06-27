@@ -46,18 +46,18 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 📈 GitHub Stats & Activity
+<!---## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthiv0408&show_icons=true&theme=gruvbox&count_private=true" alt="Parthiv's GitHub stats" />
 </p>
 
 <!-- Add a contribution graph -->
-<p align="center">
+<!---<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthiv0408&theme=xcode&hide_border=true" alt="Activity Graph">
 </p>
 
----
+--->
 
 ## ✍️ Random Dev Quote
 
