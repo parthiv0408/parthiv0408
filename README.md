@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 <h1 align="center">👋 Hey there, I'm Parthiv Chovatiya</h1>
 <h3 align="center">🚀 Passionate Developer | Flutter Enthusiast | System-Level Explorer</h3>
 
@@ -31,24 +29,33 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Highlights & Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthiv0408&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parthiv0408&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthiv0408&theme=github-compact" alt="activity graph" />
-</p>
+- 🏆 Finalist at XYZ Hackathon 2024 (or add any real ones)
+- 🧠 Built a memory-efficient C++ file compression tool
+- 📱 Published 2 Flutter apps on GitHub
+- 💡 Solved over 200 coding problems on platforms like LeetCode
 
 ---
 
-## ✍️ Quote of the Day
+## 📚 Currently Learning
+
+- 🔍 Exploring **Rust** for systems programming
+- 📲 Improving **Flutter animations & performance**
+- ⚙️ Diving deeper into **Linux internals & device drivers**
+
+---
+
+## 🧩 Fun Facts About Me
+
+- 🧃 I code best with music and masala chai ☕
+- 🌌 I love late-night debugging — it's my superpower
+- 🔐 Obsessed with writing clean, secure, and efficient code
+- 🧑‍💻 I believe open-source is the future!
+
+---
+
+## ✍️ Developer Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -61,7 +68,6 @@
 <p align="center">
   <a href="mailto:parthivchovatiya0408@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/parthiv0408"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- Add LinkedIn or other social links if available -->
 </p>
 
 ---
